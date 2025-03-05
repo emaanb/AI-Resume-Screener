@@ -1,0 +1,36 @@
+Company: MyTech
+Location: Lahore, Pakistan (Hybrid/On-site)
+Job Type: Full-time
+Experience: Entry-Level / Junior AI Engineer
+
+🔹 Job Overview
+We are seeking an AI/ML Engineer to join our growing team. The ideal candidate should have strong problem-solving skills, experience with machine learning models, and a passion for AI-driven automation. The role involves working on NLP-based applications, recommendation systems, and AI-powered solutions to optimize business processes.
+
+🔹 Responsibilities
+✅ Develop and deploy AI models for real-world applications
+✅ Work with NLP, deep learning, and machine learning algorithms
+✅ Train and fine-tune AI models using Python, TensorFlow, PyTorch, and Scikit-learn
+✅ Implement resume screening, chatbots, and recommendation engines
+✅ Optimize AI models for accuracy, performance, and scalability
+✅ Work with structured & unstructured data to improve AI systems
+✅ Collaborate with cross-functional teams (HR, marketing, software engineers)
+
+🔹 Requirements
+🎯 Strong Python skills (pandas, scikit-learn, TensorFlow, NLTK)
+🎯 Knowledge of machine learning, NLP, and data preprocessing
+🎯 Familiarity with AI-powered automation & AI ethics
+🎯 Hands-on experience with real-world AI projects (GitHub projects are a plus)
+🎯 Ability to fine-tune models and work with large datasets
+🎯 Excellent analytical & problem-solving skills
+
+🔹 Preferred Skills (Bonus!)
+🚀 Experience with BERT, GPT, or Transformer models
+🚀 Knowledge of cloud-based AI deployment (AWS, GCP, Azure)
+🚀 Understanding of vector embeddings & recommendation systems
+🚀 Familiarity with MLOps & AI model optimization
+
+💰 Salary & Perks
+✔ Competitive salary based on experience
+✔ Hybrid work model (remote + on-site flexibility)
+✔ Opportunity to work with cutting-edge AI technologies
+✔ Professional growth in AI/ML industry
